@@ -1,8 +1,8 @@
 # home_theater
-<--- SHORT INTRO & DISCLAIMER --->
-This project will encompass a build for setting up a Home theater web app, the eventual goal is to make it able to run completely offline (Detaching from IMDB Database sourced data).
-Under no circumstances will this project be used for public release, let alone any form of monetized purposes.
-It is purely for educational purposes and to work out my own creative skills on building web applications.
+<--- SHORT INTRO & DISCLAIMER ---><br>
+This project will encompass a build for setting up a Home theater web app, the eventual goal is to make it able to run completely offline (Detaching from IMDB Database sourced data).<br>
+Under no circumstances will this project be used for public release, let alone any form of monetized purposes.<br>
+It is purely for educational purposes and to work out my own creative skills on building web applications.<br>
 
 <--- FEATURES --->
 [ ] Login with UUID backend validation with persisted frontend storage (session & local)
